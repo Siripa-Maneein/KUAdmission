@@ -9,6 +9,6 @@ Please, don't forget to create .env files.
 npx create-llama
 ```
 This is a quick method, you can use to build full-stack RAG application.
-The source code is available at: 
+The generated source code is available at: 
 https://github.com/Siripa-Maneein/create-llama/tree/main
 
