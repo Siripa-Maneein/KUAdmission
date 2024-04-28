@@ -3,7 +3,7 @@ References: https://learn.deeplearning.ai/courses/javascript-rag-web-apps-with-l
 
 Please, don't forget to create .env files.
 
-### Create the repository using create-llma
+### Create the repository using create-llama
 
 ```
 npx create-llama
